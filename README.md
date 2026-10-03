@@ -18,10 +18,10 @@ The system learns what a normal/good product looks like from approximately 20–
 
 | Name | Roll Number |
 |---|---|
-| Member 1 | SECO-A-47 |
-| Member 2 | SECO-A-28 |
-| Member 3 | SECO-A-55 |
-| Member 4 | SECO-A-6|
+| Tanish Maheshwari | 47 |
+| Ayushi Singh | 06 |
+|Pratik Mishra | 53 |
+| Girishma Yadav | 28 |
 
 ---
 
